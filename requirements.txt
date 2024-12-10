@@ -1,3 +1,5 @@
 tensorflow==2.18.0
 matplotlib==3.9.3
 requests~=2.32.3
+numpy~=2.0.2
+opencv-python==4.10.0.84
